@@ -2,3 +2,31 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+h1 {
+  font-size: 5rem;
+  font-family: "Spectral", serif;
+}
+.section-primary {
+  display: flex;
+  align-items: center;
+  background-color: #ffc017;
+  height: 500px;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+.section-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 60%;
+  height: 60%;
+}
+.subtitle {
+  font-size: 1.5rem;
+}
+
+#btn-section {
+  font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
