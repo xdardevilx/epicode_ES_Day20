@@ -2,7 +2,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: sticky;
+  /* position: fixed;
+  width: 93%; */
   padding-left: 3em;
   padding-right: 3em;
   min-height: 70px;
